@@ -29,22 +29,6 @@
       "key": "]"
     }
   ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "]"
-    }
-  ],
-  "app:toggle-left-sidebar": [
-    {
-      "modifiers": [
-        "Ctrl"
-      ],
-      "key": "["
-    }
-  ],
   "insert-template": [
     {
       "modifiers": [
@@ -70,5 +54,6 @@
       "key": "ArrowDown"
     }
   ],
-  "editor:delete-paragraph": []
+  "editor:delete-paragraph": [],
+  "obsidian-editor-shortcuts:selectLine": []
 }
